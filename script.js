@@ -1,5 +1,5 @@
-const PHONE_LOCAL = '0772041231';
-const PHONE_INTERNATIONAL = '213772041231';
+const PHONE_LOCAL = '‏‪0795 69 69 98‬‏';
+const PHONE_INTERNATIONAL = '+213795696998';
 
 function callPhone() {
   window.location.href = `tel:${PHONE_LOCAL}`;
